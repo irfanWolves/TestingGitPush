@@ -1,1 +1,2 @@
 I'm using local folder to push, make it a git Repo and pushing it.
+I made changes in Github and pulled it into my local directory
